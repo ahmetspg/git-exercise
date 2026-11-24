@@ -1,1 +1,1 @@
-# git-exercise - Version von Dev B
+# git-exercise - gemeinsame Version von Dev A und B
