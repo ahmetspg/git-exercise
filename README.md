@@ -1,2 +1,1 @@
-# git-exercise
-Exercise 3 FH Technikum
+# git-exercise - Version von Dev B
